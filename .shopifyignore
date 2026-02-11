@@ -1,0 +1,13 @@
+.git
+.gitignore
+.DS_Store
+node_modules
+/assets/*.bak
+/config.yml
+README.md
+LICENSE
+CHANGELOG.md
+task.md
+implementation_plan.md
+walkthrough.md
+*.zip
