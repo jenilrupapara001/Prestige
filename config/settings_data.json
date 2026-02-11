@@ -88,7 +88,7 @@
                     "home_page_only": false,
                     "background": "#f3f3f3",
                     "text_color": "#5c5c5c",
-                    "content": "Announce something here",
+                    "content": "Welcome to Aurora",
                     "link": ""
                 }
             },
@@ -112,8 +112,8 @@
                     "footer-0": {
                         "type": "text",
                         "settings": {
-                            "title": "our services",
-                            "content": "<p>We love our customers and we provide them with high quality and best products fro top brands. We offer easy and convenient shipping worldwide.</p>",
+                            "title": "About Aurora",
+                            "content": "Aurora is a premium, AI-optimized Shopify theme designed for high-performance stores.",
                             "show_social_media": false
                         }
                     },
@@ -145,7 +145,7 @@
                     "slide-0": {
                         "type": "image",
                         "settings": {
-                            "image": "shopify://shop_images/woman-at-spa-getting-facial_4460x4460_4e13eb58-8c30-4a7e-8cae-17ec06cfbb3c.jpg",
+                            "image": "",
                             "mobile_image": "",
                             "apply_overlay": false,
                             "content_position": "bottomLeft",
@@ -160,7 +160,7 @@
                     "slide-1": {
                         "type": "image",
                         "settings": {
-                            "image": "shopify://shop_images/businessman-rolls-up-sleeve_4460x4460_bdf53091-0942-4370-a58b-6a2b3ab6f250.jpg",
+                            "image": "",
                             "mobile_image": "",
                             "apply_overlay": false,
                             "content_position": "middleCenter",
@@ -175,8 +175,8 @@
                     "1536064794716": {
                         "type": "image",
                         "settings": {
-                            "image": "shopify://shop_images/man-hand-holding-iphone_4460x4460_80d9dd1b-b109-4e1f-b3c7-dbbe0e1af7b9.jpg",
-                            "mobile_image": "shopify://shop_images/man-hand-holding-iphone_4460x4460_80d9dd1b-b109-4e1f-b3c7-dbbe0e1af7b9.jpg",
+                            "image": "",
+                            "mobile_image": "",
                             "apply_overlay": true,
                             "content_position": "bottomLeft",
                             "subheading": "Slide title",
@@ -208,7 +208,7 @@
                     "featured-collection-0": {
                         "type": "collection",
                         "settings": {
-                            "collection": "summer-sales",
+                            "collection": "",
                             "title": "",
                             "grid_items_count": 16,
                             "button_text": "View all products"
@@ -233,7 +233,7 @@
                     "collection-0": {
                         "type": "collection",
                         "settings": {
-                            "collection": "watches",
+                            "collection": "",
                             "image": "",
                             "image_alignment": "center center",
                             "content_position": "bottomLeft",
@@ -246,7 +246,7 @@
                     "collection-1": {
                         "type": "collection",
                         "settings": {
-                            "collection": "gadgets",
+                            "collection": "",
                             "image": "",
                             "image_alignment": "center center",
                             "content_position": "bottomLeft",
@@ -259,7 +259,7 @@
                     "collection-2": {
                         "type": "collection",
                         "settings": {
-                            "collection": "phone-accessories",
+                            "collection": "",
                             "image": "",
                             "image_alignment": "center center",
                             "content_position": "bottomLeft",
@@ -289,7 +289,7 @@
                     "look-0": {
                         "type": "look",
                         "settings": {
-                            "image": "shopify://shop_images/pexels-photo-1326880.jpeg",
+                            "image": "",
                             "dot_style": "light",
                             "product_1": "acupressure-mat-massage-cushion-with-pillow",
                             "product_1_horizontal_position": 30,
@@ -305,7 +305,7 @@
                     "look-1": {
                         "type": "look",
                         "settings": {
-                            "image": "shopify://shop_images/woman-using-shower-speaker_4460x4460_aaab85ce-187a-4afd-a6fc-cb59ab57742c.jpg",
+                            "image": "",
                             "dot_style": "light",
                             "product_1": "20pc-diy-mosaic-wall-tiles-stickers",
                             "product_1_horizontal_position": 25,
@@ -414,14 +414,14 @@
             "1536065219503": {
                 "type": "image-with-text-block",
                 "settings": {
-                    "image": "shopify://shop_images/womens-gold-necklace_4460x4460_a0c2ed8e-1a70-4d37-8deb-38635a7489f6.jpg",
+                    "image": "",
                     "background": "#515c63",
                     "text_color": "#ffffff",
                     "block_size": "normal",
                     "title": "TRENDING JEWELRY",
                     "content": "<p>Show off your personality with meaningful, eco-conscious expandable bracelets, necklaces, rings, and earrings that empower the light within&nbsp; you.</p>",
                     "button_label": "SHOP NOW",
-                    "button_link": "shopify://collections/jewelry",
+                    "button_link": "",
                     "show_parallax": true
                 }
             },
@@ -431,28 +431,28 @@
                     "1536065842202-0": {
                         "type": "testimonial",
                         "settings": {
-                            "logo": "shopify://shop_images/t3_medium_78fb994b-7ec9-42c6-8c53-a585ff5cea97.jpg",
+                            "logo": "",
                             "quote": "<p>I was searching on Google for beauty products and l got exactly what l needed here, l recommend</p>"
                         }
                     },
                     "1536065842202-1": {
                         "type": "testimonial",
                         "settings": {
-                            "logo": "shopify://shop_images/t6_medium_6f1834c3-09c0-491b-9b85-d9d4b49b3e04.jpg",
+                            "logo": "",
                             "quote": "<p>I always want to give a touch to my wrist with luxury watches, l found the perfect and affordable watch on this web shop.</p>"
                         }
                     },
                     "1536065842202-2": {
                         "type": "testimonial",
                         "settings": {
-                            "logo": "shopify://shop_images/t7_medium_bf5fb506-31aa-4c7b-a78b-5316e7fc0ae1.jpg",
+                            "logo": "",
                             "quote": "<p>I love everything in here, l took my time and searched through this shop and l really love their quality products.</p>"
                         }
                     },
                     "1536067220146": {
                         "type": "testimonial",
                         "settings": {
-                            "logo": "shopify://shop_images/t2_medium_cd1587c6-35c1-49b7-a37b-8ee4e892e84d.jpg",
+                            "logo": "",
                             "quote": "<p>Excellent services, is my first time buying from this store, l got my product in good shape wit very convenient process.</p>"
                         }
                     }
@@ -476,7 +476,7 @@
                     "1536065970902-0": {
                         "type": "collection",
                         "settings": {
-                            "collection": "health-and-beauty",
+                            "collection": "",
                             "title": "HEALTH & BEAUTY",
                             "grid_items_count": 8,
                             "button_text": "View all products"
@@ -485,7 +485,7 @@
                     "1536066003542": {
                         "type": "collection",
                         "settings": {
-                            "collection": "jewelry",
+                            "collection": "",
                             "title": "",
                             "grid_items_count": 8,
                             "button_text": "View all products"
@@ -509,7 +509,7 @@
                 "type": "newsletter",
                 "settings": {
                     "section_size": "small",
-                    "image": "shopify://shop_images/long-blond-hair_4460x4460_2a42f030-32f1-415e-b3c7-0cd5fd110c29.jpg",
+                    "image": "",
                     "text_color": "#ffffff",
                     "button_color": "#000000",
                     "subheading": "Keep updated",
@@ -530,7 +530,7 @@
         ]
     },
     "presets": {
-        "Allure": {
+        "Aurora": {
             "heading_color": "#1c1b1b",
             "text_color": "#1c1b1b",
             "text_light_color": "#6a6a6a",
@@ -593,7 +593,7 @@
                     "settings": {
                         "background": "#000000",
                         "text_color": "#ffffff",
-                        "content": "Announce something here"
+                        "content": "Welcome to Aurora"
                     }
                 },
                 "header": {
@@ -613,8 +613,8 @@
                         "footer-0": {
                             "type": "text",
                             "settings": {
-                                "title": "About the shop",
-                                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
+                                "title": "About Aurora",
+                                "content": "Aurora is a premium, AI-optimized Shopify theme designed for high-performance stores.",
                                 "show_social_media": true
                             }
                         },
@@ -985,7 +985,7 @@
                     "settings": {
                         "background": "#f3f3f3",
                         "text_color": "#5c5c5c",
-                        "content": "Announce something here"
+                        "content": "Welcome to Aurora"
                     }
                 },
                 "header": {
@@ -1005,8 +1005,8 @@
                         "footer-0": {
                             "type": "text",
                             "settings": {
-                                "title": "About the shop",
-                                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
+                                "title": "About Aurora",
+                                "content": "Aurora is a premium, AI-optimized Shopify theme designed for high-performance stores.",
                                 "show_social_media": true
                             }
                         },
@@ -1378,7 +1378,7 @@
                     "settings": {
                         "background": "#f1e4d8",
                         "text_color": "#343434",
-                        "content": "Announce something here"
+                        "content": "Welcome to Aurora"
                     }
                 },
                 "header": {
@@ -1398,8 +1398,8 @@
                         "footer-0": {
                             "type": "text",
                             "settings": {
-                                "title": "About the shop",
-                                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
+                                "title": "About Aurora",
+                                "content": "Aurora is a premium, AI-optimized Shopify theme designed for high-performance stores.",
                                 "show_social_media": true
                             }
                         },
